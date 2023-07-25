@@ -1,0 +1,118 @@
+header{
+color: whitesmoke;
+background-color: #211f18;
+width: 100%;
+display:inline-block
+}
+div{float: left;
+font-family: Arial, Helvetica, sans-serif;
+font-size:large;
+font-weight: 800;
+padding: 20px 25px 0px 25px;}
+.Logo{width: 200px;
+    float: left;
+}
+div:hover{ background-color: #6e807d;}
+.div{color: whitesmoke;
+text-decoration: none;
+}
+button{width:fit-content;
+font-size: medium;
+background-color: #aee6c6;
+pointer-events: none;}
+h1{font-family: 'monoton', cursive;
+    color: #6e807d;;
+}
+.h1sub{padding: 0px 0px 0px 0px;
+float: none;
+color: #424f4d;
+pointer-events: none;}
+.search{width: 300px; height: 30px;
+float: right;
+padding: none;
+border: solid rgb(91, 91, 190);
+font-size: medium;}
+.searchicon{float: right;}
+p{background-image: url(https://plus.unsplash.com/premium_photo-1673716788487-bff4986be87b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9zZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80);
+   background-size: contain;
+   width: 100%;
+   height: 300px;
+   margin: 0%;
+}
+.one{border: solid whitesmoke;
+padding:20px 25px 20px 25px;
+word-spacing: 5px;
+margin: auto;
+float: center;}
+.imgh2{width: 30%; height: 30%;
+float: left;
+padding: 0% 1% 0% 1%;}
+h2{padding: 10px 5px 10px 5px;
+}
+.kappadoccia{
+    font-size: larger;
+font-family: 'Wallpoet', cursive;
+color: #cfdb1d;
+pointer-events: none;
+}
+.view{font-family: 'lumanosimo', cursive;
+font-size: larger;
+margin: none;
+word-spacing: 6px;
+padding: none;
+pointer-events: none;}
+.Olabisi{float: none;
+    padding: 0px 0px 10px 0px;
+    font-size: 30px;
+    font-family: 'Wallpoet', cursive;
+    color: #cfdb1d;
+    pointer-events: none;
+}
+.Jersey{float: none;
+padding: 0px opx 10px 0px;
+font-size: 30px;
+font-family: 'Wallpoet', cursive;
+color: #cfdb1d;
+pointer-events: none;
+}
+.Ankara{float: none;
+    padding: 0px opx 10px 0px;
+    font-size: 30px;
+    font-family: 'Wallpoet', cursive;
+    color: #cfdb1d;
+    pointer-events: none;
+    }
+    .footer{float: left;
+    padding: 0px 0px 0px 0px;
+background-image: none;
+width: 100%;
+height: fit-content;}
+    .footerp{background-image: none;
+    background-color: #211f18;
+height: fit-content;
+float: left;}
+    footer{background-image: none;
+    height: 400px;
+    background-color: #211f18;
+    color: whitesmoke;
+    border: solid black;
+margin-top: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;}
+.marquee{font-family: lumanosimo;
+font-size: larger;
+color: #0313fc;
+color: #000;
+		font-weight: bold;
+		font-size: 2rem;
+		animation: blinkingText 2s infinite;
+	}
+	@keyframes blinkingText{
+		0%		{ color: #10c018;}
+		25%		{ color: #1056c0;}
+		50%		{ color: #ef0a1a;}
+		75%		{ color: #254878;}
+		100%	{ color: #04a1d5;}
+.logobottom{float: right;
+width: auto;
+height: 200px;}
